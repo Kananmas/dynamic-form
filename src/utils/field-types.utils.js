@@ -1,0 +1,1 @@
+export const FieldTypes = ["text", "date", "checkbox", "number", "radio", "option" , "time"]
